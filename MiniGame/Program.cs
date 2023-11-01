@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MiniGame
+{
+    internal class Program
+    {
+
+        static string[] player;
+        
+        static void Main(string[] args)
+        {
+
+
+        }
+    }
+}
